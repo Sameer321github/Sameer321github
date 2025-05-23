@@ -40,7 +40,7 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsameerahmed&theme=github-dark" height="180em"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsameerahmed&layout=compact&theme=tokyonight" height="180em"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsameerahmed&layout=compact&theme=tokyonight" height="180em"/> -->
 </p>
 
 ---
